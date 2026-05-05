@@ -21,3 +21,6 @@ Esta wiki detalla los pasos para instalar la base de datos NoSQL CouchDB
 
 
 ## 2. Levantamiento de Docker con CouchDB
+
+### Prerrequisitos
+- Tener instalado Docker Desktop [Docker](https://www.docker.com/products/docker-desktop/)
