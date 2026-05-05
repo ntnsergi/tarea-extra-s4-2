@@ -18,3 +18,6 @@ Esta wiki detalla los pasos para instalar la base de datos NoSQL CouchDB
    - **Password:** `tu_contraseña`.
 3. **Configuración de Servicio:** Asegurarse de marcar la opción para instalar CouchDB como un servicio de Windows, esto permitirá que la base de datos se inicie automáticamente con el sistema.
 4. **Finalizar:** Haz clic en "Install" y espera a que el proceso concluya.
+
+
+## 2. Levantamiento de Docker con CouchDB
